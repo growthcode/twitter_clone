@@ -4,6 +4,12 @@ source 'https://rubygems.org'
 gem 'rails',                '4.2.0'
 # to secure passwords with hash
 gem 'bcrypt',               '3.1.7'
+# to make seed data
+gem 'faker',                '1.4.2'
+# paginate for tweets scrolling
+gem 'will_paginate',           '3.0.7'
+# paginate for tweets scrolling
+gem 'bootstrap-will_paginate', '0.0.10'
 # bootstrap sass gem
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
